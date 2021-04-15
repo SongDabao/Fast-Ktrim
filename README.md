@@ -9,6 +9,9 @@ you can re-compile the programs:
 
 git clone https://github.com/RabbitBio/Fast-Ktrim.git
 cd Fast-Ktrim
+mkdir build
+cd build
+cmake ..
 make clean && make
 ```
 
